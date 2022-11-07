@@ -9,5 +9,11 @@
     ],
     "idf.portWin": "COM3",
     "idf.pythonBinPathWin": "C:\\Users\\521ab\\.espressif\\python_env\\idf4.4_py3.8_env\\Scripts\\python.exe",
-    "idf.toolsPathWin": "C:\\Users\\521ab\\.espressif"
+    "idf.toolsPathWin": "C:\\Users\\521ab\\.espressif",
+    "files.associations": {
+        "freertos.h": "c",
+        "task.h": "c",
+        "event_groups.h": "c",
+        "sys.h": "c"
+    }
 }
